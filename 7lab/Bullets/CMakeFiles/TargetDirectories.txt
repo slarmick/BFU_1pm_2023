@@ -1,0 +1,3 @@
+D:/Desktop/7lab/Bullets/CMakeFiles/sfml_sample.dir
+D:/Desktop/7lab/Bullets/CMakeFiles/ALL_BUILD.dir
+D:/Desktop/7lab/Bullets/CMakeFiles/ZERO_CHECK.dir
